@@ -36,7 +36,7 @@ Be sure to ⭐ this repo so you can keep up to date on any daily progress!
 <tr>
 <td>
 
-A collection of solutions for HackerRank data structures and algorithm problems in Python, JAVA, and CPP. This community-owned project aims to bring together the solutions for the DS & Algo problems across various platforms, along with the resources for learning them. Problems from Leetcode will be included soon in the project.
+A collection of solutions for GFG,Leetcode,InterviewBit data structures and algorithm problems in Python, JAVA, and CPP. This community-owned project aims to bring together the solutions for the DS & Algo problems across various platforms, along with the resources for learning them. Problems from Leetcode will be included soon in the project.
 
 </td>
 </tr>
