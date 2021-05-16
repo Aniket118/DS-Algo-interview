@@ -53,7 +53,7 @@ A collection of solutions for GFG,Leetcode,InterviewBit data structures and algo
 | Topic | Question  | Difficulty  | JAVA | Optimised |                                                   
 | ---------- | --------- | ---------- | --- | --- |
 | Arrays |   
-||[Sort an array of 0’s 1’s 2’s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)|Easy|[View](/Arrays/2D%20Array-DS/solution.java)|[View](/Arrays/2D%20Array-DS/solution.java)|
+||[Sort an array of 0’s 1’s 2’s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)|Easy|[View](/Arrays/sort012/solution.java)|[View](/Arrays/sort012/optimization.java)|
 
 
 ### A cool and collective resource
