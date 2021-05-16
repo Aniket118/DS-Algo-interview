@@ -25,8 +25,8 @@ Be sure to ⭐ this repo so you can keep up to date on any daily progress!
 ## Table of Contents
 
 * [About The Project](#about-the-project)
-* [Contribution Instructions](#contribution-instructions)
-* [HackerRank Solutions](#hackerrank)
+* [Contribution Instructions](#caution)
+* [GFG,Leetcode,InterviewBit](#solution)
 * [A cool & collective resource](#a-cool-and-collective-resource)
  
 
@@ -42,18 +42,18 @@ A collection of solutions for HackerRank data structures and algorithm problems 
 </tr>
 </table>
 
-## Contribution Instructions
+## Caution
 
-- Please read [contribution guidelines](CONTRIBUTING.md) for contributing to the project.
+- Before viewing the solution, try to solve it.
 
-## HackerRank
+## Solution
 
-> HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming. 🚀
+> GFG,Leetcode,InterviewBit is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming. 🚀
 
-| Topic | Question  | Difficulty  | JAVA |                                                    
-| ---------- | --------- | ---------- | --- | ----- | ------ |
+| Topic | Question  | Difficulty  | JAVA | Optimised |                                                   
+| ---------- | --------- | ---------- | --- | --- |
 | Arrays |   
-||[Array-DS](https://www.hackerrank.com/challenges/2d-array/problem)|Easy|[View](/Arrays/2D%20Array-DS/solution.java)|
+||[Sort an array of 0’s 1’s 2’s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)|Easy|[View](/Arrays/2D%20Array-DS/solution.java)|[View](/Arrays/2D%20Array-DS/solution.java)|
 
 
 ### A cool and collective resource
